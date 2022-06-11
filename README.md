@@ -1,4 +1,4 @@
-# Eidolon-Public-
+# XER Tools
 
 Author:   David Hoyle
 
