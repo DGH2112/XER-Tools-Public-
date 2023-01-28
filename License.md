@@ -2,15 +2,15 @@
 
 Author:   David Hoyle
 
-Version:  2.1
+Version:  2.1a
 
-Date:     13 Nov 2022
+Date:     28 Jan 2023
 
 Web Site: [XER Tools](https://github.com/DGH2112/|XER-Tools-Public-)
 
 ## XER Tools End User License Agreement
 
-13 Nov 2022
+28 Jan 2023
 
 This software is provided as is and I do not warrant the correctness of the output information provided by the software. However, I will endeavour to correct any problems that are highlighted via bug reports to the below email address. Please provide any relevant files and a set of steps to produce the issue as this will make it quicker to fix the issue.
 
