@@ -2,9 +2,9 @@
 
 Author:   David Hoyle
 
-Version:  2.1b
+Version:  2.1c
 
-Date:     11 Mar 2023
+Date:     28 May 2023
 
 Web Site: [XER Tools](https://github.com/DGH2112/XER-Tools-Public-)
 
@@ -18,4 +18,4 @@ For details on how to use the software please refer to the HTML Help file (`XERT
 
 ## Manual Installation
 
-In order to install XER Tools's all you need to do is run the `XERToolsSetup-2.1.exe` programme and following the instructions on the screen. Alternatively, you can extract all the files from the `XER Tools 2.1.zip` and put them in a folder on your computer and run XER Tools directly from there.
+In order to install XER Tools's all you need to do is run the `XERToolsSetup-2.1c.exe` programme and following the instructions on the screen. Alternatively, you can extract all the files from the `XER Tools 2.1c.zip` and put them in a folder on your computer and run XER Tools directly from there.
