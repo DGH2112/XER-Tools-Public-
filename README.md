@@ -2,9 +2,9 @@
 
 Author:   David Hoyle
 
-Version:  2.2a
+Version:  2.2b
 
-Date:     25 May 2025
+Date:     09 Nov 2025
 
 Web Site: [XER Tools](https://github.com/DGH2112/XER-Tools-Public-)
 
@@ -14,7 +14,7 @@ This application allow you to open a Primavera XER and view the data within usin
 
 ## Usage
 
-For details on how to use the software please refer to the HTML Help file (`XERTools.chm`). It contains details on all the operations you can perform in XER Tools.
+For details on how to use the software please refer to the HTML Help file (`XERTools.chm`) or the [Doc Wiki](https://github.com/DGH2112/XER-Tools-Public-/wiki). These contains details on all the operations you can perform in XER Tools.
 
 ## Manual Installation
 

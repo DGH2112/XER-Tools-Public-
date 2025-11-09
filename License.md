@@ -2,9 +2,9 @@
 
 Author:   David Hoyle
 
-Version:  2.2a
+Version:  2.2b
 
-Date:     25 May 2025
+Date:     09 Nov 2025
 
 Web Site: [XER Tools](https://github.com/DGH2112/|XER-Tools-Public-)
 
